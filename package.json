@@ -1,0 +1,21 @@
+{
+  "name": "awesome-microfrontends",
+  "version": "0.5.0",
+  "description": "A curated and hopefully awe-some list about Micro Frontends.",
+  "keywords": ["awesome", "micro", "micro frontends", "list", "documenation"],
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianUlbrich/awesome-microfrontends.git"
+  },
+  "files": ["README.md"],
+  "author": "Christian Ulbrich (christian.ulbrich@zalari.de)",
+  "license": "PD",
+  "bugs": {
+    "url": "https://github.com/ChristianUlbrich/awesome-microfrontends/issues"
+  },
+  "homepage": "https://github.com/ChristianUlbrich/awesome-microfrontends#readme"
+}
