@@ -23,7 +23,7 @@ Micro Frontends are an _architectural pattern_, just as Microservices are. There
 
 Blog posts and web sites that are talking about the general concepts for a Micro Frontend architecture.
 
-- [micro-frontends.org](https://https://micro-frontends.org/) - framework agnostic introduction to Micro Frontends.
+- [micro-frontends.org](https://micro-frontends.org/) - framework agnostic introduction to Micro Frontends.
 - [Micro frontends—a microservice approach to front-end web development
 ](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16) - a motivation for Micro Frontends.
 
