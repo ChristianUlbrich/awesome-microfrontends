@@ -55,6 +55,12 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 ### Graveyard
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components won't be used for its upcoming Material Web Components and that says it all
 
+## Talks
+
+- [Compositional UIs - the Microservices Last Mile](https://www.youtube.com/watch?v=gjtFGx0yX5M) - Jimmy Bogard
+- [A High-Performance Solution to Microservices UI Composition](https://www.youtube.com/watch?v=E6_UyQPmiSg&t=2104s) - Arif Wider & Alexey Gravanov
+- [Microservices, but what about the UI](https://www.youtube.com/watch?v=USYVpZuRQeY) - Marten Deinum
+
 ## Meta
 - [A Software Architect's Approach...](https://www.softwarearchitekt.at/post/2017/12/28/a-software-architect-s-approach-towards-using-angular-and-spas-in-general-for-microservices-aka-microfrontends.aspx) - decision tree, whether you need Micro Frontends (with Web Components)
 
