@@ -51,6 +51,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [single-spa](https://single-spa.js.org/) - Canopy's approach on micro frontends is about composing multiple SPAs.
 - [OpenComponents](https://opencomponents.github.io/) - _"an open-source, "batteries included" micro frontends framework"_
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components that still has some nice tooling 
+- [Piral](https://piral.io) - an open-source framework for next generation portal applications using micro frontends built on React.
 
 ### Graveyard
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components won't be used for its upcoming Material Web Components and that says it all
