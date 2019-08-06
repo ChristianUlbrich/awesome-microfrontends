@@ -62,6 +62,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) - closed curated list with tracking links for micro frontends
 
 ### Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Contribute
 
