@@ -52,6 +52,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [OpenComponents](https://opencomponents.github.io/) - _"an open-source, "batteries included" micro frontends framework"_
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components that still has some nice tooling 
 - [NUT](https://github.com/nut-project/nut) - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more
+- [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
 
 ### Graveyard
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components won't be used for its upcoming Material Web Components and that says it all
@@ -63,6 +64,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) - closed curated list with tracking links for micro frontends
 
 ### Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - An early-access book introduction to micro frontend based applications.
 
 ## Contribute
 
