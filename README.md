@@ -51,6 +51,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [single-spa](https://single-spa.js.org/) - Canopy's approach on micro frontends is about composing multiple SPAs.
 - [OpenComponents](https://opencomponents.github.io/) - _"an open-source, "batteries included" micro frontends framework"_
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components that still has some nice tooling 
+- [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
 - [Piral](https://piral.io) - an open-source framework for next generation portal applications using micro frontends built on React.
 
 ### Graveyard
@@ -63,6 +64,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [Micro Frontends by Elisabeth Engel](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) - closed curated list with tracking links for micro frontends
 
 ### Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - An early-access book introduction to micro frontend based applications.
 
 ## Contribute
 
