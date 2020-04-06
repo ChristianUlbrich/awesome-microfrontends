@@ -54,6 +54,7 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 - [NUT](https://github.com/nut-project/nut) - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more
 - [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
 - [Piral](https://piral.io) - an open-source framework for next generation portal applications using micro frontends built on React.
+- [Isomorphic Layout Composer](https://github.com/namecheap/ilc) - allows framework agnostic Micro Frontends composition into SPA with SSR support.
 
 ### Graveyard
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components won't be used for its upcoming Material Web Components and that says it all
