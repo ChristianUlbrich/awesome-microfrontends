@@ -14,7 +14,6 @@ Micro Frontends are an _architectural pattern_, just as Microservices are. There
 - [Tooling](#tooling)
     - [Building Blocks](#building-blocks)
     - [Frameworks](#tooling)
-- [Talks](#talks)
 - [Meta](#meta)
     - [Other lists](#other-lists)
     - [Books](#books)
