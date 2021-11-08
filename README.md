@@ -47,13 +47,14 @@ Blog posts and web sites that are talking about the general concepts for a Micro
 
 ### Frameworks
 
-- [Mosaic](https://www.mosaic9.org/) - Project Mosaic is Zalando's take on micro frontends and is a complete framework for it.
-- [single-spa](https://single-spa.js.org/) - Canopy's approach on micro frontends is about composing multiple SPAs.
+- [Mosaic](https://www.mosaic9.org/) - Project Mosaic is Zalando's take on micro frontends and is a complete framework for it
+- [single-spa](https://single-spa.js.org/) - Canopy's approach on micro frontends is about composing multiple SPAs
 - [OpenComponents](https://opencomponents.github.io/) - _"an open-source, "batteries included" micro frontends framework"_
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components that still has some nice tooling 
 - [NUT](https://github.com/nut-project/nut) - A framework born for micro frontends, which is used internally in Netease, currently it supports Vue, React and more
 - [Podium](https://podium-lib.io) - Easy server side composition of microfrontends
-- [Piral](https://piral.io) - an open-source framework for next generation portal applications using micro frontends built on React.
+- [Piral](https://piral.io) - An open-source framework for next generation portal applications using micro frontends built on React
+- [Ragu](https://ragu-framework.github.io) - It was never so simple to deliver a frontend!
 
 ### Graveyard
 - [Polymer Project](https://www.polymer-project.org/) - Google's take on building Web Components won't be used for its upcoming Material Web Components and that says it all
